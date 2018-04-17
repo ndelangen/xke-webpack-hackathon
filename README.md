@@ -1,5 +1,7 @@
 # Webpack XKE hackathon
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ndelangen/xke-webpack-hackathon.svg)](https://greenkeeper.io/)
+
 ## the setup
 
 - We have a Plugin to make entrypoints dynamic
