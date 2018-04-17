@@ -11,7 +11,7 @@
 - switch to use the webpack/webpack-serve Node API
 - modify the loader to grab the code to prepend from a file
 
-## challanges
+## challenges
 - print all the exports from the example file
 - render all exports as react components
 
